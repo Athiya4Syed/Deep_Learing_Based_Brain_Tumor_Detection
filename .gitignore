@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+uploads/*
+reports/*
+datasets/
+*.log
+.env
+venv/
+*.h5
+connectivity.log
